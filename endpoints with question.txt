@@ -1,0 +1,9 @@
+1.missing endpoints:
+/rome/labels
+/rome/reverse-entities
+2.different endpoints:
+need in pdf: /common-catalog/sku
+search in postman: /common-catalog/sku/722148/store/9741
+
+need in pdf: /common-catalog/upc
+search in postman: /common-catalog/upc/030699044801/store/9741
